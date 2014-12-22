@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-AN EAST-INDIA COLATION; OR, A Discourse of Travels; Set forth in sundry Observations, briefe and del
+
 1. THE BOOKE TO THE READER.
 
 1. TO THE READER.
@@ -75,32 +75,28 @@ There are 194 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|3||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|3||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -108,23 +104,21 @@ There are 194 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__bibl__|4||
-|2.|__body__|1||
-|3.|__closer__|1||
-|4.|__desc__|194||
-|5.|__div__|6| @__type__ (6) : title_page (1), to_the_reader (3), part (2)|
-|6.|__epigraph__|3||
-|7.|__front__|1||
-|8.|__g__|606| @__ref__ (606) : char:EOLhyphen (576), char:punc (9), char:cmbAbbrStroke (21)|
-|9.|__gap__|194| @__reason__ (194) : illegible (190), duplicate (4)  •  @__resp__ (190) : #APEX (190)  •  @__extent__ (194) : 1 word (21), 1+ letters (168), 3 words (1), 1 page (4)|
-|10.|__head__|2||
-|11.|__hi__|285| @__rend__ (2) : sup (2)|
-|12.|__l__|40||
-|13.|__lg__|2||
-|14.|__opener__|1||
-|15.|__p__|90||
-|16.|__pb__|108| @__facs__ (108) : tcp:15024:1 (2), tcp:15024:2 (2), tcp:15024:3 (2), tcp:15024:4 (2), tcp:15024:5 (2), tcp:15024:6 (2), tcp:15024:7 (2), tcp:15024:8 (2), tcp:15024:9 (2), tcp:15024:10 (2), tcp:15024:11 (2), tcp:15024:12 (2), tcp:15024:13 (2), tcp:15024:14 (2), tcp:15024:15 (2), tcp:15024:16 (2), tcp:15024:17 (2), tcp:15024:18 (2), tcp:15024:19 (2), tcp:15024:20 (2), tcp:15024:21 (2), tcp:15024:22 (2), tcp:15024:23 (2), tcp:15024:24 (2), tcp:15024:25 (2), tcp:15024:26 (2), tcp:15024:27 (2), tcp:15024:28 (2), tcp:15024:29 (2), tcp:15024:30 (2), tcp:15024:31 (2), tcp:15024:32 (2), tcp:15024:33 (2), tcp:15024:34 (2), tcp:15024:35 (2), tcp:15024:36 (2), tcp:15024:37 (2), tcp:15024:38 (2), tcp:15024:39 (2), tcp:15024:40 (2), tcp:15024:41 (2), tcp:15024:42 (2), tcp:15024:43 (2), tcp:15024:44 (2), tcp:15024:45 (2), tcp:15024:46 (2), tcp:15024:47 (2), tcp:15024:48 (2), tcp:15024:49 (2), tcp:15024:50 (2), tcp:15024:51 (2), tcp:15024:52 (2), tcp:15024:53 (2), tcp:15024:54 (2)  •  @__rendition__ (3) : simple:additions (3)  •  @__n__ (97) : 1 (2), 2 (2), 3 (2), 4 (2), 5 (2), 6 (2), 7 (2), 8 (3), 9 (3), 10 (2), 11 (2), 12 (2), 13 (2), 14 (2), 15 (2), 16 (3), 17 (3), 18 (2), 19 (2), 20 (2), 21 (2), 22 (2), 23 (2), 24 (2), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1)|
-|17.|__q__|5||
-|18.|__salute__|1||
-|19.|__seg__|3| @__rend__ (3) : decorInit (3)|
-|20.|__signed__|1||
-|21.|__trailer__|2||
+|2.|__closer__|1||
+|3.|__desc__|194||
+|4.|__div__|6| @__type__ (6) : title_page (1), to_the_reader (3), part (2)|
+|5.|__epigraph__|3||
+|6.|__g__|606| @__ref__ (606) : char:EOLhyphen (576), char:punc (9), char:cmbAbbrStroke (21)|
+|7.|__gap__|194| @__reason__ (194) : illegible (190), duplicate (4)  •  @__resp__ (190) : #APEX (190)  •  @__extent__ (194) : 1 word (21), 1+ letters (168), 3 words (1), 1 page (4)|
+|8.|__head__|2||
+|9.|__hi__|285| @__rend__ (2) : sup (2)|
+|10.|__l__|40||
+|11.|__lg__|2||
+|12.|__opener__|1||
+|13.|__p__|90||
+|14.|__pb__|108| @__facs__ (108) : tcp:15024:1 (2), tcp:15024:2 (2), tcp:15024:3 (2), tcp:15024:4 (2), tcp:15024:5 (2), tcp:15024:6 (2), tcp:15024:7 (2), tcp:15024:8 (2), tcp:15024:9 (2), tcp:15024:10 (2), tcp:15024:11 (2), tcp:15024:12 (2), tcp:15024:13 (2), tcp:15024:14 (2), tcp:15024:15 (2), tcp:15024:16 (2), tcp:15024:17 (2), tcp:15024:18 (2), tcp:15024:19 (2), tcp:15024:20 (2), tcp:15024:21 (2), tcp:15024:22 (2), tcp:15024:23 (2), tcp:15024:24 (2), tcp:15024:25 (2), tcp:15024:26 (2), tcp:15024:27 (2), tcp:15024:28 (2), tcp:15024:29 (2), tcp:15024:30 (2), tcp:15024:31 (2), tcp:15024:32 (2), tcp:15024:33 (2), tcp:15024:34 (2), tcp:15024:35 (2), tcp:15024:36 (2), tcp:15024:37 (2), tcp:15024:38 (2), tcp:15024:39 (2), tcp:15024:40 (2), tcp:15024:41 (2), tcp:15024:42 (2), tcp:15024:43 (2), tcp:15024:44 (2), tcp:15024:45 (2), tcp:15024:46 (2), tcp:15024:47 (2), tcp:15024:48 (2), tcp:15024:49 (2), tcp:15024:50 (2), tcp:15024:51 (2), tcp:15024:52 (2), tcp:15024:53 (2), tcp:15024:54 (2)  •  @__rendition__ (3) : simple:additions (3)  •  @__n__ (97) : 1 (2), 2 (2), 3 (2), 4 (2), 5 (2), 6 (2), 7 (2), 8 (3), 9 (3), 10 (2), 11 (2), 12 (2), 13 (2), 14 (2), 15 (2), 16 (3), 17 (3), 18 (2), 19 (2), 20 (2), 21 (2), 22 (2), 23 (2), 24 (2), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1)|
+|15.|__q__|5||
+|16.|__salute__|1||
+|17.|__seg__|3| @__rend__ (3) : decorInit (3)|
+|18.|__signed__|1||
+|19.|__trailer__|2||
